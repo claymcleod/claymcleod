@@ -10,7 +10,7 @@ My name is Clay—I'm a product manager and software engineer.
 - 📫 How to reach me: [clay.mcleod@stjude.org](mailto:clay.mcleod@stjude.org).
 - 🚀 If you're interested in learning more, my website is at [claymcleod.dev].
 
-[seminal paper]: https://cancerdiscovery.aacrjournals.org/content/11/5/1082
+[first paper]: https://cancerdiscovery.aacrjournals.org/content/11/5/1082
 [St. Jude Cloud]: https://stjude.cloud
 [claymcleod.dev]: https://claymcleod.dev
 [We're hiring]: https://claymcleod.dev/jobs
