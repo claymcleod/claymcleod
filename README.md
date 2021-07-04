@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**claymcleod/claymcleod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Clay—I'm a product manager and software engineer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the [St. Jude Cloud] at St. Jude Children's Research Hospital.
+- 🚀 If you're interested in learning more, my website is at [claymcleod.dev].
+- 🌱 I’m currently learning graphic design and (as always) more biology.
+- 👥 I’m looking to collaborate on any of the open source projects I've created.
+- 🤔 [We're hiring] on the St. Jude Cloud project.
+- 💬 Ask me about anything to do with product development, software engineering, or genomics.
+- 📫 How to reach me: [clay.mcleod@stjude.org](mailto:clay.mcleod@stjude.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[St. Jude Cloud]: https://stjude.cloud
+[claymcleod.dev]: https://claymcleod.dev
+[We're hiring]: https://claymcleod.dev/jobs
