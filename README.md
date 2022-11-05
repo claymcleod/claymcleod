@@ -13,4 +13,4 @@ My name is Clay—I'm a product manager and software engineer.
 [first paper]: https://cancerdiscovery.aacrjournals.org/content/11/5/1082
 [St. Jude Cloud]: https://stjude.cloud
 [claymcleod.dev]: https://claymcleod.dev
-[We're hiring]: https://claymcleod.dev/jobs
+[We're hiring]: https://talent.stjude.org/careers/jobs?keywords=St.%20Jude%20Cloud&sortBy=relevance&page=1
