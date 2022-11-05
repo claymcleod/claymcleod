@@ -7,7 +7,7 @@ My name is Clay—I'm a product manager and software engineer.
 - 👥 I’m looking to collaborate on any of the open source projects I've created.
 - 🤔 [We're hiring] on the St. Jude Cloud project.
 - 💬 Ask me about anything to do with product development, software engineering, or genomics.
-- 📫 How to reach me: [clay.mcleod@stjude.org](mailto:clay.mcleod@stjude.org).
+- 📫 How to reach me: [clay.l.mcleod@gmail.com](mailto:clay.l.mcleod@gmail.com).
 - 🚀 If you're interested in learning more, my website is at [claymcleod.dev].
 
 [first paper]: https://cancerdiscovery.aacrjournals.org/content/11/5/1082
